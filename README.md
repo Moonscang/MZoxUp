@@ -2,7 +2,7 @@
 **Read this in other languages: [English](README.md), [中文](README_zh.md).**
 
 ## Important things bear repeating: the project has NOT been uploaded yet, and it still hasn’t, and once more—it hasn’t!  
-## Tentative plan: the first usable Beta will appear around 2028-2029. Stay tuned!  
+## Tentative plan: the first usable Beta will appear around 2028-2029(although we may ship an x86_64-only preview first). Stay tuned!  
 MZoxUp is a dual-mode (UEFI & Legacy BIOS) boot loader targeting x86-64, ARM64, RISC-V64 and LoongArch64.  
 It offers a three-tier privilege scheme—King / root / admin—and a secure-mode rescue terminal named `MZUsh#king->`.  
 Together with btrfs snapshots, it enables **second-level** system rollbacks.
