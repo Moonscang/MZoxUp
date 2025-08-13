@@ -1,4 +1,21 @@
 # MZoxUp README
+## Language
+
+- [English](#english)
+- [中文](#中文)
+
+---
+
+### English
+
+// Your English content here
+
+---
+
+### 中文
+
+// Your Chinese content here
+
 ## 重要的事说三遍：项目还没上传，项目还没上传，项目还没上传！！！
 ## 大概我会在2028-2029年发布第一个可用的Beta版，尽请期待！
 MZoxUp 是一个面向 x86-64 / ARM64 / RISC-V64 / LoongArch64 的 UEFI & Legacy BIOS 双模式引导器，提供 King / root / admin 三级权限与安全模式救援终端 `MZUsh#king->`，搭配 btrfs 快照实现 秒级系统恢复。
