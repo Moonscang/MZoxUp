@@ -1,20 +1,5 @@
 # MZoxUp README
-## Language
-
-- [English](#english)
-- [中文](#中文)
-
----
-
-### English
-
-// Your English content here
-
----
-
-### 中文
-
-// Your Chinese content here
+**Read this in other languages: [English](README.md), [中文](README_zh.md).** Your Chinese content here
 
 ## 重要的事说三遍：项目还没上传，项目还没上传，项目还没上传！！！
 ## 大概我会在2028-2029年发布第一个可用的Beta版，尽请期待！
